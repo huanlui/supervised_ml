@@ -1,5 +1,3 @@
-# supervised_ml
-
 # Machine Learning Snippets
 
 # Regression
